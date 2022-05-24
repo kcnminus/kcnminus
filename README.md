@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcnminus
-- 👀 I’m interested in learning more about software development and building websites from front to back.
-- 🌱 I’m currently learning HTML, CSS, and Javascript, and am somewhat familiar with using SQL and Python.
+- 👀 I’m interested in learning more about good software development practices and am currently employed as a test automation engineer.
+- 🌱 I’m familiar with fullstack web development and automated test coverage/troubleshooting on a CI/CD pipeline.
 - 💞️ I’m looking to collaborate on anything, really.
 - 📫 How to reach me - colincno@gmail.com 
 
